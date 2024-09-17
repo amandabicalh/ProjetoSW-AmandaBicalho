@@ -13,7 +13,7 @@ O artigo mostra que, apesar de ser uma solução rápida, construir sistemas des
 Em resumo, o artigo explica por que sistemas desorganizados são tão comuns no desenvolvimento de software e propõe algumas formas de melhorar essa situação, incentivando um equilíbrio entre soluções rápidas e um planejamento mais cuidadoso. 
 
 
-##**Resenha do artigo "Technology Radar"** 
+**Resenha do artigo "Technology Radar"** 
 
 O artigo Technology Radar, da Thoughtworks traz uma série de inovações e tendências tecnológicas que estão influenciando o desenvolvimento de software. Um dos principais destaques é a técnica de Geração Aumentada por Recuperação (RAG), que melhora a precisão dos resultados de modelos de linguagem como os LLMs. Com a RAG, informações relevantes são recuperadas de documentos e combinadas com o prompt enviado ao modelo, resultando em respostas mais precisas e reduzindo erros como respostas fora de contexto. 
 
