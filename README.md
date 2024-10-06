@@ -33,6 +33,25 @@ A Conformidade Contínua é outra prática destacada, que automatiza auditorias 
 
 Essas tendências mostram como o desenvolvimento de software está cada vez mais focado em automação, segurança e eficiência, usando o poder das novas tecnologias para melhorar a qualidade dos projetos. 
 
+## Resenha do artigo: Microsservices
+O artigo sobre Microservices fala sobre uma nova maneira de desenvolver softwares que tem ganhado bastante popularidade. A ideia principal é dividir uma aplicação grande em pequenos serviços independentes, chamados de microserviços. Cada um desses serviços cuida de uma parte específica do sistema e pode ser desenvolvido e atualizado separadamente. Isso é diferente da abordagem monolítica, onde toda a aplicação é um único bloco que precisa ser alterado de uma vez só, mesmo para mudanças pequenas. 
+
+  
+
+No decorrer do texto, o autor explica que uma das grandes vantagens dos microserviços é que as equipes podem trabalhar de forma independente. Elas podem escolher as melhores ferramentas e linguagens para cada serviço e fazer atualizações sem precisar mexer em todo o sistema. Além disso, ele destaca a importância da automação, que torna mais fácil e rápido o processo de implantação dos serviços. 
+
+  
+
+Outro ponto interessante é que, em vez de dividir as equipes por função técnica, como front-end e back-end, a arquitetura de microserviços organiza os times em torno das necessidades do negócio. Ou seja, cada equipe foca em resolver problemas específicos e entregar valor diretamente ao cliente, o que acelera o desenvolvimento e a entrega de novas funcionalidades. 
+
+  
+
+Por outro lado, o autor também ressalta alguns desafios dessa abordagem. Gerenciar muitos microserviços pode ser complexo e exige um bom sistema de monitoramento para garantir que tudo funcione bem. Além disso, é necessário que o sistema seja capaz de lidar com falhas sem derrubar toda a aplicação. 
+
+  
+
+No final, o autor conclui que, apesar das dificuldades, a arquitetura de microserviços é uma ótima escolha para empresas que precisam de flexibilidade e que tenham sistemas grandes. Empresas como Netflix e Amazon já adotaram esse modelo com sucesso, mas ele requer uma equipe capacitada para lidar com a complexidade. 
+
  
 
  
