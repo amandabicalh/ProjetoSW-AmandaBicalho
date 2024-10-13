@@ -1,6 +1,6 @@
 # ProjetoSW-AmandaBicalho
 
-**Resenha do artigo “Big Ball of Mud”** 
+## Resenha do artigo “Big Ball of Mud”
 
 O artigo “Big Ball of Mud”, de Brian Foote e Joseph Yoder, fala sobre um problema muito comum no desenvolvimento de software: sistemas extremamente desorganizados e confusos, chamados de Bola de Lama Gigante. Esse tipo de sistema ocorre quando o código é escrito sem planejamento, resultando em algo difícil de entender e manter. Mesmo sendo considerada uma má prática, essa abordagem é muito usada porque permite que desenvolvedores atendam às demandas rapidamente. 
 
@@ -13,7 +13,7 @@ O artigo mostra que, apesar de ser uma solução rápida, construir sistemas des
 Em resumo, o artigo explica por que sistemas desorganizados são tão comuns no desenvolvimento de software e propõe algumas formas de melhorar essa situação, incentivando um equilíbrio entre soluções rápidas e um planejamento mais cuidadoso. 
 
 
-**Resenha do artigo "Technology Radar"** 
+## Resenha do artigo "Technology Radar" 
 
 O artigo Technology Radar, da Thoughtworks traz uma série de inovações e tendências tecnológicas que estão influenciando o desenvolvimento de software. Um dos principais destaques é a técnica de Geração Aumentada por Recuperação (RAG), que melhora a precisão dos resultados de modelos de linguagem como os LLMs. Com a RAG, informações relevantes são recuperadas de documentos e combinadas com o prompt enviado ao modelo, resultando em respostas mais precisas e reduzindo erros como respostas fora de contexto. 
 
@@ -51,6 +51,20 @@ Por outro lado, o autor também ressalta alguns desafios dessa abordagem. Gerenc
   
 
 No final, o autor conclui que, apesar das dificuldades, a arquitetura de microserviços é uma ótima escolha para empresas que precisam de flexibilidade e que tenham sistemas grandes. Empresas como Netflix e Amazon já adotaram esse modelo com sucesso, mas ele requer uma equipe capacitada para lidar com a complexidade. 
+
+## Resenha Capítulos 6 e 7 do livro “Engenharia de Software Moderna” 
+
+No capítulo 6 do livro Engenharia de Software Moderna, são apresentados os padrões de projeto, que são soluções já conhecidas e testadas para problemas recorrentes no desenvolvimento de software. Esses padrões foram inspirados em ideias da arquitetura tradicional e adaptados para o mundo da programação. Lá, você vai encontrar explicações sobre padrões como Fábrica, Singleton, Adaptador, entre outros. 
+
+A principal função desses padrões é oferecer uma forma mais eficiente e organizada de resolver problemas que surgem com frequência. Porém, o capítulo também alerta que, apesar de serem muito úteis, não é uma boa ideia aplicá-los em qualquer situação. Usar padrões de forma exagerada pode acabar complicando o código ao invés de simplificá-lo, o que vai contra o objetivo inicial. 
+
+No Capítulo 7, é falado sobre a arquitetura de software, que trata da organização geral dos sistemas, com foco nas grandes estruturas em vez dos detalhes menores como classes e funções. Aqui, a preocupação está em como dividir o sistema em partes maiores, como módulos e camadas, para garantir que ele seja fácil de entender, modificar e expandir ao longo do tempo.  
+
+O capítulo apresenta diferentes formas de estruturar sistemas. Um exemplo é o padrão MVC , que separa a interface do usuário, a lógica de controle e os dados, o que facilita o desenvolvimento de sistemas modulares e mais fáceis de modificar. Outro exemplo é  a Arquitetura em Camadas, bastante popular em empresas, que organiza o sistema em diferentes níveis de responsabilidade, ajudando a manter o código mais organizado e permitindo atualizações sem grandes complicações.  
+
+Por último, o capítulo aborda os Microsserviços onde cada parte do sistema funciona de forma autônoma. Essa separação em pequenos serviços independentes facilita o escalonamento, a manutenção e a adição de novas funcionalidades sem interferir no restante do sistema, tornando-o mais flexível e preparado para crescer. 
+
+Esses dois capítulos mostram como padrões de projeto e arquitetura são como as fundações de uma casa: eles garantem que o software seja sólido e que possa crescer sem desmoronar. Os padrões de projeto são como truques que você pode usar no dia a dia para resolver problemas comuns de forma rápida e eficiente, sem reinventar a roda toda vez. Já a arquitetura de software é o plano mestre, ajudando a organizar tudo de uma maneira que faz sentido e que facilita mudanças no futuro, evitando o caos. 
 
  
 
