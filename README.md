@@ -65,6 +65,7 @@ O capítulo apresenta diferentes formas de estruturar sistemas. Um exemplo é o 
 Por último, o capítulo aborda os Microsserviços onde cada parte do sistema funciona de forma autônoma. Essa separação em pequenos serviços independentes facilita o escalonamento, a manutenção e a adição de novas funcionalidades sem interferir no restante do sistema, tornando-o mais flexível e preparado para crescer. 
 
 Esses dois capítulos mostram como padrões de projeto e arquitetura são como as fundações de uma casa: eles garantem que o software seja sólido e que possa crescer sem desmoronar. Os padrões de projeto são como truques que você pode usar no dia a dia para resolver problemas comuns de forma rápida e eficiente, sem reinventar a roda toda vez. Já a arquitetura de software é o plano mestre, ajudando a organizar tudo de uma maneira que faz sentido e que facilita mudanças no futuro, evitando o caos. 
+Com esses dois conceitos trabalhando juntos, você consegue construir sistemas que não só funcionam bem hoje, mas que também serão fáceis de atualizar e manter quando novos desafios aparecerem. Em vez de acabar com um software bagunçado e difícil de mexer, você terá algo organizado e preparado para crescer de forma tranquila. 
 
  
 
